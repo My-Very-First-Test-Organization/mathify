@@ -5,10 +5,10 @@ Uma biblioteca simples e eficiente para cálculos matemáticos avançados.
 Mathify é uma biblioteca projetada para facilitar cálculos matemáticos comuns e avançados, com foco em desempenho e simplicidade. Ideal para projetos acadêmicos, científicos e comerciais.
 
 ### Recursos
-- Operações básicas (adição, subtração, multiplicação, divisão);
-- Cálculos estatísticos (média, mediana, desvio padrão);
-- Funções trigonométricas e logarítmicas;
-- Suporte a números complexos.
+- Operações básicas (adição, subtração, multiplicação, divisão)
+- Cálculos estatísticos (média, mediana, desvio padrão)
+- Funções trigonométricas e logarítmicas
+- Suporte a números complexos
 
 ### Instalação
 Via npm
@@ -38,8 +38,8 @@ Acesse a documentação detalhada em [db/mathify-docs](https://github.com/My-Ver
 ### Contribuindo
 Adoraríamos receber sua ajuda!
 
-- Faça um fork do repositório.
-- Crie uma branch para sua feature:
-- Envie um pull request!
+- Faça um fork do repositório
+- Crie uma branch para sua feature
+- Envie um pull request
 
 Para maiores innformações e apoio, acesse os nossos repositórios [company-overview](https://github.com/My-Very-First-Test-Organization/company-overview) e [company-guidelines](https://github.com/My-Very-First-Test-Organization/company-guidelines).
